@@ -1,28 +1,20 @@
-# CyberSecurity Portfolio
+# Password Checker
 
-大家好，我是張可諾，目前就讀資訊科。
+## 專案介紹
+使用 Python 製作的密碼強度檢查工具。
 
-## About Me
+## 功能
+- 檢查密碼長度
+- 檢查大小寫
+- 檢查數字
+- 檢查特殊符號
+- 評估密碼安全程度
 
-- Information Technology Student
-- Interested in Cybersecurity
-- Learning Python
-- Learning Arduino
-- Preparing for iPAS Information Security Engineer
+## 使用技術
+- Python
+- 字串處理
+- 條件判斷
 
-## Experience
-
-- AIS3 Junior
-- APCS
-- Information Security Competitions
-- Science Fair Projects
-
-## Projects
-
-Coming soon...
-
-## Goals
-
-- Build cybersecurity projects
-- Improve programming skills
-- Study information security
+## 學習心得
+透過製作此工具，了解密碼安全的重要性，
+並練習 Python 基礎語法與資安概念。
