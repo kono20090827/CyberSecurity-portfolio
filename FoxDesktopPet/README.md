@@ -1,4 +1,4 @@
-# 🦊 FoxDesktopPet — 橘子狐狐
+# 🦊 FoxDesktopPet — 可愛的小狐狸
 
 一隻使用 Python 製作的 Windows 桌面像素風小狐狸！
 
